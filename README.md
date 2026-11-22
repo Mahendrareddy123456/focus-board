@@ -18,9 +18,6 @@ The application provides an intuitive single-user dashboard experience demonstra
 - **Total Tasks:** Derived dynamically from total task state length across all categories.
 - **In Progress:** Real-time count of active tasks currently under execution.
 - **Completed:** Count of all successfully finished tasks.
-- **Completion Rate (%):** Dynamically calculated using the formula:
-  $$\text{Completion Rate} = \left(\frac{\text{Completed Tasks}}{\text{Total Tasks}}\right) \times 100$$
-  Includes edge-case handling for zero tasks to prevent division by zero.
 - **Instant Updates:** All cards react and update immediately upon task creation, status toggle, editing, or deletion.
 
 ### 2. Focus Notes Interactive Carousel (Figma Frames 15:2, 15:30, 15:58)
