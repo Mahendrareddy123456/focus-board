@@ -7,8 +7,8 @@ The application provides an intuitive single-user dashboard experience demonstra
 ---
 
 ## 🚀 Live Demo & Repository
-- **Hosting URL (GitHub Pages / Vercel):** *[Insert your live URL]*
-- **GitHub Repository:** *[Insert your repository URL]*
+- **Hosting URL (GitHub Pages):** [https://Mahendrareddy123456.github.io/focus-board/](https://Mahendrareddy123456.github.io/focus-board/)
+- **GitHub Repository:** [https://github.com/Mahendrareddy123456/focus-board](https://github.com/Mahendrareddy123456/focus-board)
 
 ---
 
